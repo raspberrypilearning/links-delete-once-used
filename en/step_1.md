@@ -1,4 +1,4 @@
-1. [page 1](https://projects.raspberrypi.org/en/projects?page=1)
+1. [page 1](https://projects.raspberrypi.org/en/projects/3d-adventure)
 2. [page 2](https://projects.raspberrypi.org/en/projects?page=2)
 3. [page 3](https://projects.raspberrypi.org/en/projects?page=3)
 4. [page 4](https://projects.raspberrypi.org/en/projects?page=4)
